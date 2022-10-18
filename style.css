@@ -1,5 +1,5 @@
-h1{
-    outline: rgb(55, 136, 243) solid 2px;
-    border-radius: 12px;
-    width: fit-content;
+.line {
+  height: 1px;
+  background: rgb(245, 34, 34);
+  background: linear-gradient(90deg, rgba(245, 34, 34, 1) 0%, rgba(121, 9, 76, 1) 49%, rgba(5, 0, 255, 1) 100%);
 }
